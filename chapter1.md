@@ -1,3 +1,4 @@
-#Chapter 1 - the amazing red chapter
+#Chapter 1 - the blue period
 this is the chapter where it all begins
-red red red
+
+blue blue blue
